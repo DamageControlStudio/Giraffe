@@ -1,0 +1,21 @@
+body {
+    background-color: #ee5522a0;
+    background-image: url("./img/giraffe.svg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#linkimg {
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    height: 48px;
+    border-radius: 18px;
+}
+
+#projects {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
