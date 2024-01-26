@@ -1,8 +1,10 @@
 body {
     background-color: #ee5522a0;
-    background-image: url("./img/giraffe.svg");
+    background-image: url("./img/background.svg");
     background-attachment: fixed;
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center left;
+    height: 100%;
 }
 
 #linkimg {
