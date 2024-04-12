@@ -1,10 +1,10 @@
 body {
     background-color: #ee5522a0;
-    background-image: url("./img/giraffe.svg");
+    background-image: url("./img/civilization.svg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center left; 
-    height: 100%;
+    width: 100%;
 }
 
 #linkimg {
